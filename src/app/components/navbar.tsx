@@ -1,6 +1,6 @@
 import Link from "next/link";
 import React from "react";
-import { IoCloudDownloadOutline } from "react-icons/io5"
+
 const Navbar=()=>{
     return(
         <section className="bg-yellow-800">
